@@ -55,7 +55,7 @@ class _HomePageState extends State<HomePage> {
                 MaterialPageRoute(builder: (context) => const CtaPage()),
               );
             },
-            child: const Text("Voir CTA Demo"),
+            child: const Text("Voir ma Demo CTA"),
           ),
           const SizedBox(height: 30),
           const Footer(), // <- footer simple

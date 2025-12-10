@@ -15,7 +15,7 @@ class CtaSection extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
           Text(
-            "Prêt à commencer votre projet Flutter ?",
+            "Prêt à commencer ton projet Flutter ?",
             style: Theme.of(context).textTheme.headlineSmall?.copyWith(
               color: colorScheme.onSurfaceVariant,
             ),

@@ -31,7 +31,7 @@ class HeroSection extends StatelessWidget {
                   ),
                   const SizedBox(height: 12),
                   Text(
-                    "Apprends à créer des interfaces responsive, réutilisables et modernes.",
+                    "Apprends à créer des interfaces responsive, réutilisables et modernes avec moi.",
                     style: Theme.of(context).textTheme.bodyMedium,
                   ),
                   const SizedBox(height: 20),
