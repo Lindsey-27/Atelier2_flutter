@@ -9,7 +9,8 @@ class CtaSection extends StatelessWidget {
 
     return Container(
       width: double.infinity,
-      color: colorScheme.surfaceVariant, // fond contrasté
+      color: Theme.of(context).colorScheme.surfaceContainerHighest,
+      // fond contrasté
       padding: const EdgeInsets.symmetric(vertical: 40, horizontal: 24),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.center,
